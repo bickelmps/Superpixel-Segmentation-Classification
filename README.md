@@ -13,7 +13,7 @@ valentin.bickel@erdw.ethz.ch
 
 ETH Zurich / MPS Goettingen
 
-##### MIT License - Copyright (c) 2018 Valentin Tertius Bickel
+##### MIT License - Copyright (c) 2017 Valentin Tertius Bickel
 Please refer to this routine as:
 #### Bickel, V.T. Multi-channel Image Superpixel Segmentation. 2017.
 ________________________________________________________________________________________________________
