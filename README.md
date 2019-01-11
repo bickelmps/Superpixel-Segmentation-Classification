@@ -15,9 +15,9 @@ ETH Zurich / MPS Goettingen
 
 ##### MIT License - Copyright (c) 2018 Valentin Tertius Bickel
 Please refer to this routine as:
-#### Bickel, V.T. Multi-channel Image Superpixel Segmentation
+#### Bickel, V.T. Multi-channel Image Superpixel Segmentation. 2017.
 ________________________________________________________________________________________________________
 
 ### Required Matlab toolboxes:
-- MATLAB R2017a
+- MATLAB R2016a
 - Image Processing Toolbox
