@@ -3,6 +3,8 @@
 
 #### for 3-channel images
 
+#### Segment color images with superpixels. Useful for digital image classification, classification pre-processing, image entropy & noise reduction, edge extraction applications, etc.
+
 <img src="https://github.com/bickelmps/Superpixel-Segmentation/blob/master/Figures/segmentation.gif?raw=true">
 
 -----------------------------------
