@@ -3,7 +3,7 @@
 
 #### for 3-channel images
 
-<img src="https://github.com/bickelmps/DIC_FFT_ETHZ/blob/master/Figures/glacier.gif?raw=true">
+<img src="https://github.com/bickelmps/Superpixel-Segmentation/blob/master/Figures/segmentation.gif?raw=true">
 
 -----------------------------------
 
