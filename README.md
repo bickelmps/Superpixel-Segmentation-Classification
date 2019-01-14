@@ -1,9 +1,9 @@
 ﻿
-# Multi-channel Image Superpixel Segmentation
+# Multi-channel Superpixel Segmentation & user-guided k-means Classification
 
 #### for 3-channel images
 
-#### Segment color images with superpixels. Useful for digital image classification, classification pre-processing, image entropy & noise reduction, edge extraction applications, etc.
+#### Segment color images with superpixels and classify the segments with a user-guided k-means clustering approach. Useful for digital image classification, classification pre-processing, image entropy & noise reduction, edge extraction applications, etc.
 
 <img src="https://github.com/bickelmps/Superpixel-Segmentation/blob/master/Figures/segmentation.gif?raw=true">
 
@@ -23,3 +23,6 @@ ________________________________________________________________________________
 ### Required Matlab toolboxes:
 - MATLAB R2016a
 - Image Processing Toolbox
+
+### External functions:
+- heatscatter.m, by Lukas Utz, Copyright (c) 2014.
