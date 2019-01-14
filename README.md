@@ -5,7 +5,7 @@
 
 #### Segment color images with superpixels and classify the segments with a user-guided k-means clustering approach. Useful for digital image classification, classification pre-processing, image entropy & noise reduction, edge extraction applications, etc.
 
-<img src="https://github.com/bickelmps/Superpixel-Segmentation/blob/master/Figures/segmentation.gif?raw=true">
+<img src="https://github.com/bickelmps/Superpixel-Segmentation/blob/master/Figures/segmentation_example.gif?raw=true">
 
 -----------------------------------
 
