@@ -17,7 +17,7 @@ ETH Zurich / MPS Goettingen
 
 ##### MIT License - Copyright (c) 2017 Valentin Tertius Bickel
 Please refer to this routine as:
-#### Bickel, V.T. Multi-channel Image Superpixel Segmentation. 2017.
+#### Bickel, V.T. Multi-channel Superpixel Segmentation & user-guided k-means Classification. 2019.
 ________________________________________________________________________________________________________
 
 ### Required Matlab toolboxes:
