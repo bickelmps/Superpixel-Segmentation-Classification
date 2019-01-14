@@ -9,7 +9,7 @@
 
 -----------------------------------
 
-V. T. Bickel, September 15th 2017
+V. T. Bickel, September 2017 & January 2019
 
 valentin.bickel@erdw.ethz.ch
 
