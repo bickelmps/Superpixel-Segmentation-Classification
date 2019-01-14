@@ -25,4 +25,4 @@ ________________________________________________________________________________
 - Image Processing Toolbox
 
 ### External functions:
-- heatscatter.m, by Lukas Utz, Copyright (c) 2014.
+- heatscatter.m, by Lukas Utz, Copyright (c) 2014. (https://de.mathworks.com/matlabcentral/fileexchange/47165-heatscatter-plot-for-variables-x-and-y)
